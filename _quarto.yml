@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "Gandalf"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  title: "LATiDOS"                                # Your name
+  description: "LATent variable models to Determine the Onset of neurodegenerative Symptoms"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -32,7 +32,7 @@ website:
         href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:fjesusmartinez@ugr.es"  
   
   
 
